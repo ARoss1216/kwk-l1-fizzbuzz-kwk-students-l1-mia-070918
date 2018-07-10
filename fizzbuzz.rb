@@ -6,5 +6,5 @@ def fizzbuzz(num)
   end 
 end
 
-fizzbuzz(10)
+fizzbuzz(14)
 
