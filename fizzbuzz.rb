@@ -1,7 +1,10 @@
 def fizzbuzz(num)
   if num %3 == 0
-  puts "fizz" 
-end 
+    puts "fizz" 
+  else
+    puts "buzz"
+  end 
 end
 
 fizzbuzz(9)
+
