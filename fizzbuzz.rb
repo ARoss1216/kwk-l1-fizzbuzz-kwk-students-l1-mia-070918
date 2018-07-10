@@ -1,4 +1,7 @@
 def fizzbuzz(num)
   if num %3 == 0
-  puts "fizz"
+  puts "fizz" 
+end 
 end
+
+fizzbuzz(9)
